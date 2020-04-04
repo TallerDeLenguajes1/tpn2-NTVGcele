@@ -12,7 +12,7 @@ int main(){
     {
         for(c = 0;c<M; c++)
         {
-            printf("--%.2lf--", &mt[1][2]);
+            printf("--%.2lf--", &mt[f][c]);
         }
         printf("\n");         
 
