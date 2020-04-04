@@ -1,4 +1,5 @@
-
+#include <stdio.h>
+#include <stdlib.h>
 
 #define N 4
 #define M 5
